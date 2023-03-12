@@ -34,6 +34,7 @@ IMAGE 2 FILE
 
 `garden.jpg`
 
+
 IMAGE 2 ALT TEXT
 
 `Riyadh Garden`
